@@ -1,0 +1,8 @@
+echo "Thumbs.db
+.DS_Store
+*.log
+*.ini
+AppData/
+Cookies/
+Local Settings/
+My Documents/" > .gitignore
